@@ -1,0 +1,8 @@
+django
+pyaes
+pbkdf2
+opencv-python
+opencv-contrib-python
+Pillow
+cryptography
+pymysql
